@@ -1,0 +1,1 @@
+from .pipeline_mv_stable_diffusion_3 import StableMVDiffusion3Pipeline

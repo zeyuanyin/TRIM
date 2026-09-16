@@ -1,0 +1,17 @@
+plyfile
+numpy==1.26.4
+matplotlib
+Pillow
+imageio
+imageio-ffmpeg
+rembg[gpu]
+lpips
+einops
+safetensors
+sentencepiece
+accelerate
+transformers
+diffusers==0.32
+kiui
+omegaconf
+image-reward
