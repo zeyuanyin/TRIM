@@ -144,6 +144,8 @@ Evaluation data:
 ## Acknowledgement
 This repository is built on top of [DiffSplat](https://github.com/chenguolin/DiffSplat/).
 
+We also release [Dome-Objaverse](https://huggingface.co/datasets/zeyuanyin/Dome-Objaverse), a multi-view Objaverse rendering dataset with 83K objects, 48 dome views each, RGB/normal/depth maps, captions, and an interactive 3D viewer, as a follow-up resource for 3D reconstruction/generation model training.
+
 ## Citation
 If you find this repository helpful, please consider citing:
 ```bibtex
